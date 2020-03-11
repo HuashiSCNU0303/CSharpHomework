@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLinkList", "NewLinkList\NewLinkList.csproj", "{046DE001-8F1C-49BD-814E-97B7404FB7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockEvent", "AlarmEvent\ClockEvent.csproj", "{047C7BC2-72E4-48E7-89F8-D0709F14003C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046DE001-8F1C-49BD-814E-97B7404FB7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046DE001-8F1C-49BD-814E-97B7404FB7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046DE001-8F1C-49BD-814E-97B7404FB7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046DE001-8F1C-49BD-814E-97B7404FB7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047C7BC2-72E4-48E7-89F8-D0709F14003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047C7BC2-72E4-48E7-89F8-D0709F14003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047C7BC2-72E4-48E7-89F8-D0709F14003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047C7BC2-72E4-48E7-89F8-D0709F14003C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15C7F47-603F-4C99-961D-55BBA63C97E1}
+	EndGlobalSection
+EndGlobal
