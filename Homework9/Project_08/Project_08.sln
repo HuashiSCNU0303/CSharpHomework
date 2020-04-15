@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCrawler", "SimpleCrawler\SimpleCrawler.csproj", "{04B75FD7-1FB1-44EF-97BC-504DA2E14C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCrawler_WinForm", "SimpleCrawler_WinForm\SimpleCrawler_WinForm.csproj", "{5A0AC8FE-E8A9-4895-9513-48141888C909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B75FD7-1FB1-44EF-97BC-504DA2E14C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B75FD7-1FB1-44EF-97BC-504DA2E14C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B75FD7-1FB1-44EF-97BC-504DA2E14C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B75FD7-1FB1-44EF-97BC-504DA2E14C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0AC8FE-E8A9-4895-9513-48141888C909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0AC8FE-E8A9-4895-9513-48141888C909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0AC8FE-E8A9-4895-9513-48141888C909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0AC8FE-E8A9-4895-9513-48141888C909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E298D63A-BAD3-4A30-9BAE-ABE656882288}
+	EndGlobalSection
+EndGlobal
